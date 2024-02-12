@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm learning both mobile app and web developing<br>I'm have decent experience being a graphics designer
+I'm a 23yo guy, studying computer science.
+Currently learning both mobile app and web developing<br>I have decent experience being a graphics designer
 
 
 ## 🌐 Socials:
